@@ -1,6 +1,6 @@
 # RAG-Chatbot (Streamlit UI) — Dockerized
 
-This is a Retrieval-Augmented Generation (RAG) chatbot with a Streamlit-based web interface. The app is containerized using Docker and can be run locally or in any containerized environment.
+This is a Retrieval-Augmented Generation (RAG) chatbot with a Streamlit-based web interface. The app is containerized using Docker and can be run locally or in any containerized environment. The model is trained with three AP science textbooks: AP Biology, AP Chemistry, and AP Physics. The purpose of the chatbot is to provide textual evidence for answers to questions related to AP science courses.
 
 ---
 
